@@ -13,7 +13,7 @@ face_recognition package is hard to install because the package require DLIB whi
 Other package reuired is : Shutil
 This package is easily available, so it wont case any problem.
 
-
+Other requirements are mentioned in the "requirement.txt". 
 # About
 This Image manager classify the images unisupervised way.
 It essentiall finds the face in a image and detect the main face in the image and move them to a respective folder.
